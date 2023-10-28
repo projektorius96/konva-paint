@@ -1,0 +1,12 @@
+import { Stage } from 'konva/lib/Stage';
+import { Layer } from 'konva/lib/Layer';
+import { Group } from 'konva/lib/Group';
+import { Node } from 'konva/lib/Node';
+import { Shape } from 'konva/lib/Shape';
+export { 
+    Stage, 
+    Layer, 
+    Group, 
+    Node, 
+    Shape,
+}
